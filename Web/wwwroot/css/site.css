@@ -1,0 +1,187 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+/*----*/
+
+img {
+    border-radius: 10px;
+}
+
+
+div.text-center {
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+    display: flex;
+}
+
+article {
+    width: 70%;
+    align-items: center;
+    font-size: 30px;
+    margin-right: 20px;
+}
+
+div.hot {
+}
+
+img.hot {
+    width: 100%;
+    border: none;
+    margin-right: 20px;
+    border-radius: 10px;
+    float: left;
+}
+
+div.hot h3 {
+    font-size: 30px;
+}
+
+    div.hot h3:hover {
+        color: rgb(26, 99, 255);
+        cursor: pointer;
+    }
+
+div.new {
+    padding-top: 20px;
+    display: flex;
+    margin: 0;
+}
+
+.new div.ba {
+    width: 30%;
+    margin: auto;
+}
+div.ba h3 {
+    font-size: 20px;
+}
+div.ba:hover {
+    color: rgb(26, 99, 255);
+    cursor: pointer;
+}
+
+.new img {
+    width: 100%;
+}
+
+
+div.list {
+    margin-top: 20px;
+}
+
+
+div.lNew {
+    display: flex;
+    padding-bottom: 80px;
+    border-bottom: 1px solid #a7a7a7;
+    height: 120px;
+    margin: 12px 0;
+}
+
+    div.lNew:hover {
+        color: rgb(26, 99, 255);
+    }
+
+
+.list img {
+    width: 150px;
+}
+
+.list div.lText {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+    .list div.lText h3 {
+        font-size: 20px;
+    }
+
+/**aside*/
+aside {
+    width: 35%;
+    margin: auto;
+    margin-top: 0;
+}
+
+div.noiDung {
+    padding-bottom: 80px;
+    border-bottom: 1px solid #a7a7a7;
+    height: 60px;
+    margin: 10px 0;
+}
+
+    div.noiDung h3 {
+        font-size: 15px;
+    }
+
+    div.noiDung img {
+        border-radius: 10px;
+    }
+
+img.noiDung {
+    height: 70px;
+    width: 70px;
+    float: left;
+    margin-right: 20px;
+}
+
+.noiDung:hover {
+    color: rgb(26, 99, 255);
+    cursor: pointer;
+}
+
+
+/* group9*/
+
+.contact {
+    margin: 20px 10%;
+    text-align: center;
+}
+
+    .contact h1 {
+        font-size: 50px;
+        margin-bottom: 30px;
+    }
+
+h2 {
+    margin: 20px;
+    font-size: 30px;
+}
+
+
+
+/*bao*/
+.body {
+    margin: 10px 10%;
+    background-color: azure;
+    padding: 20px;
+}
+
+    .body h1 {
+        font-size: 30px;
+    }
+
+    .body img {
+        width: 100%;
+        margin: 10px 0;
+    }
+
+    .body span {
+        font-size: 15px;
+    }
