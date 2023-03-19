@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cyDgbyQSXcdqOVTXxl2qalI5F/1atGPUfQX/KDf7Ruw=",
+  "Hash": "mm4c/ieRi7UUBCir6oVsUfpkmnpFROIzJT677RJ6Mj8=",
   "Source": "Web",
   "BasePath": "_content/Web",
   "Mode": "Default",
@@ -51,6 +51,23 @@
       "OriginalItemSpec": "D:\\ASP.NET\\Web\\Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Web.bundle.scp.css"
     },
     {
+      "Identity": "D:\\ASP.NET\\Web\\Web\\wwwroot\\css\\login.css",
+      "SourceId": "Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ASP.NET\\Web\\Web\\wwwroot\\",
+      "BasePath": "_content/Web",
+      "RelativePath": "css/login.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\login.css"
+    },
+    {
       "Identity": "D:\\ASP.NET\\Web\\Web\\wwwroot\\css\\site.css",
       "SourceId": "Web",
       "SourceType": "Discovered",
@@ -83,6 +100,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\ASP.NET\\Web\\Web\\wwwroot\\js\\jquery-3.6.0.min.js",
+      "SourceId": "Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ASP.NET\\Web\\Web\\wwwroot\\",
+      "BasePath": "_content/Web",
+      "RelativePath": "js/jquery-3.6.0.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\jquery-3.6.0.min.js"
+    },
+    {
+      "Identity": "D:\\ASP.NET\\Web\\Web\\wwwroot\\js\\login.js",
+      "SourceId": "Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ASP.NET\\Web\\Web\\wwwroot\\",
+      "BasePath": "_content/Web",
+      "RelativePath": "js/login.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\login.js"
     },
     {
       "Identity": "D:\\ASP.NET\\Web\\Web\\wwwroot\\js\\site.js",
